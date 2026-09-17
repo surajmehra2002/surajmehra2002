@@ -203,7 +203,7 @@ looking_for: Full-Time Full-Stack / React.js Developer role
 <a href="https://www.linkedin.com/in/surajsingh221" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://surajmehra.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://swiftboard.suryagroup.us" target="_blank"><img src="https://img.shields.io/badge/SwiftBoard-0f2027?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://suryagroup.tech/" target="_blank"><img src="https://img.shields.io/badge/Surya_Group-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.suryagroup.us/" target="_blank"><img src="https://img.shields.io/badge/Surya_Group-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:surimehra8995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
